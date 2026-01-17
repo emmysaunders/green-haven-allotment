@@ -1,27 +1,26 @@
-# green-haven-allotment
+# Green Haven Allotment
 
-Started building the GHA website and added a basic HTML page with a heading and introduction
+A simple web page created for the Green Haven community allotment, designed for senior citizens. The page includes headings, paragraphs, a list of plants, and an image of the allotment. CSS styling has been added for readability and presentation.
 
-Added a CSS file to start styling the allotment website
+## Features
 
-The CSS file was linked to the HTML page using a link tag so that styling can be applied to the web page
+- Headings and paragraphs for easy reading
+- List of vegetables and herbs grown at the allotment
+- Image of the allotment (`garden.jpeg`)
+- CSS styling for layout, fonts, colors, and spacing
+- Tested in a web browser for correct display
 
-Added basic styling to improve readability for senior users
+## Development Steps
 
-Opened the HTML file in a web browser to check it displays correctly
+- Started with a basic HTML page with heading and introduction
+- Added a CSS file and linked it to the HTML page
+- Applied basic CSS styling to improve readability for senior users
+- Added content sections using headings, paragraphs, and a list
+- Condensed CSS to make it cleaner and more presentable
+- Added a local image of the allotment and styled it with borders and spacing
+- Fixed HTML linking issues and other small code errors
+- Finalized a simple, functional webpage with styling
 
-Added content sections using headings, paragraphs and a list
+## Status
 
-Added basic CSS styling to improve readability and appearance
-
-Condensed the CSS to make it cleaner and more presentable
-
-Added a local image of the allotment to the web page
-
-Fixed line 18, code error with the image
-
-Styling improvement to the garden.jpeg image
-
-Link from index.html to style.css was incorrect, rectified the code
-
-Completed a simple first webpage + styling
+✅ Fully functional and styled web page
