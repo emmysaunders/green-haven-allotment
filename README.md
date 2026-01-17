@@ -15,3 +15,5 @@ Added content sections using headings, paragraphs and a list
 Added basic CSS styling to improve readability and appearance
 
 Condensed the CSS to make it cleaner and more presentable
+
+Added a local image of the allotment to the web page
