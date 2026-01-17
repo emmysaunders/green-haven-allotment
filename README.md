@@ -23,3 +23,5 @@ Fixed line 18, code error with the image
 Styling improvement to the garden.jpeg image
 
 Link from index.html to style.css was incorrect, rectified the code
+
+Completed a simple first webpage + styling
