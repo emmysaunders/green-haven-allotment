@@ -1,3 +1,9 @@
 # green-haven-allotment
 
 Started building the GHA website and added a basic HTML page with a heading and introduction
+
+Added a CSS file to start styling the allotment website
+
+The CSS file was linked to the HTML page using a link tag so that styling can be applied to the web page
+
+Added basic styling to improve readability for senior users
