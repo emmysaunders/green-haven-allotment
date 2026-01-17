@@ -13,3 +13,5 @@ Opened the HTML file in a web browser to check it displays correctly
 Added content sections using headings, paragraphs and a list
 
 Added basic CSS styling to improve readability and appearance
+
+Condensed the CSS to make it cleaner and more presentable
