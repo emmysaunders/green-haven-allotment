@@ -17,3 +17,5 @@ Added basic CSS styling to improve readability and appearance
 Condensed the CSS to make it cleaner and more presentable
 
 Added a local image of the allotment to the web page
+
+Fixed line 18, code error with the image
