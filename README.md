@@ -21,3 +21,5 @@ Added a local image of the allotment to the web page
 Fixed line 18, code error with the image
 
 Styling improvement to the garden.jpeg image
+
+Link from index.html to style.css was incorrect, rectified the code
